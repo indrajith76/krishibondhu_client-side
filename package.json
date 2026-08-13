@@ -8,6 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "daisyui": "^5.7.16",
+    "dotenv": "^17.4.2",
+    "firebase": "^12.17.1",
     "next": "16.3.0",
     "react": "19.2.8",
     "react-dom": "19.2.8",
