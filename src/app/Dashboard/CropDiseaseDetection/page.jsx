@@ -1,12 +1,62 @@
-import React from 'react';
+"use client";
 
-const CropDiseaseDetection = () => {
-    return (
-        <div className='pb-5'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, ullam. Sapiente fuga soluta maiores quasi nesciunt recusandae impedit voluptatem aliquid atque iusto sunt harum possimus maxime doloribus, quidem nemo assumenda veritatis. Saepe maiores at exercitationem asperiores repellendus libero, ab non earum numquam perspiciatis officia minus laboriosam fugit consequuntur sequi soluta officiis tenetur neque! Sunt rerum veritatis, consequatur repudiandae eius debitis eveniet nemo vitae quae possimus atque perspiciatis dolores, unde accusantium. Tempore facilis aliquid sint aspernatur accusamus consequatur? Tempora eveniet temporibus porro corrupti alias quisquam tempore quod asperiores qui molestias? Amet adipisci rem sint veritatis distinctio et impedit voluptatum iusto aut laborum incidunt, molestias officia praesentium aspernatur dolor eligendi illo. Nesciunt, laudantium quod minus illo molestiae ipsum rem commodi nulla dolore dolores libero explicabo quaerat deserunt sapiente dignissimos atque omnis, numquam maiores et ratione hic animi eos? Pariatur, quia, iste vitae deserunt harum minima, quae voluptates sapiente rem minus neque facere porro? Eligendi sint blanditiis alias excepturi, esse fuga. Nihil quibusdam inventore, nulla atque voluptate voluptas blanditiis iste? Facilis assumenda sapiente sint reiciendis quaerat nulla maiores nihil, repellendus fuga minus ipsam ducimus unde provident numquam eveniet amet aperiam rerum illum porro quos dolor sunt veniam! Et illum impedit, sequi quae facere eos ut asperiores provident perferendis unde quibusdam ipsam eveniet reprehenderit, minus, dolores aliquid iste earum eum magni quis tempore! Tenetur, fugit nulla? Doloremque ex, dolores repudiandae praesentium, temporibus delectus molestiae architecto sed, sapiente similique velit eligendi voluptatum. Voluptatibus, quam dolore? Eveniet sed quia dignissimos sint qui aliquam temporibus necessitatibus laborum libero dolorem quasi dicta quod, alias totam magni ipsa mollitia eligendi autem quae et repudiandae ea, praesentium reprehenderit! Aliquid id laboriosam illo tenetur ea dolores eius, fuga distinctio nesciunt nulla voluptate ipsum consectetur mollitia atque magni aut et vero, soluta, eligendi laborum harum veniam exercitationem fugiat quibusdam. Illum dolore ducimus culpa id! Nesciunt maxime laborum fugiat tempore facilis tempora ad dolor harum soluta molestiae, tenetur ipsa fugit vero veritatis ut cum error. Aspernatur quaerat quo, explicabo a ratione ipsum maiores quibusdam fugiat corporis temporibus aperiam tempore labore exercitationem illo totam illum necessitatibus dolore perferendis earum, quis reprehenderit nemo ab. Corrupti amet similique iste unde repudiandae perferendis deleniti non cum, sequi quia sapiente molestiae laborum repellat omnis alias et labore est hic earum ratione, eum, sunt maiores! Est deleniti ab commodi corporis dolorem sed unde animi culpa corrupti quis, labore quas asperiores natus! Hic corrupti in dolores? Ab repudiandae alias accusamus dolorum libero, veritatis ut reprehenderit facilis dicta error officia omnis ad hic voluptatum sequi nihil reiciendis nostrum. Aperiam fugiat ad tenetur quo quae magnam numquam! Dolores nam cupiditate ipsam, incidunt officiis, ratione dolorum omnis natus qui aperiam sit pariatur commodi voluptates nisi! Mollitia esse vitae soluta laborum ipsa quia sunt, corporis aperiam ea quaerat. Ipsum nisi illum at similique dolorem nostrum et natus. Iusto ut ad voluptates error illum ex distinctio debitis aperiam, labore molestias sed iure obcaecati beatae tenetur deleniti vitae quae magnam quia dolore, consequuntur numquam consequatur blanditiis? Commodi dolorem itaque at nobis illo veritatis suscipit, accusantium quasi!
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, ullam. Sapiente fuga soluta maiores quasi nesciunt recusandae impedit voluptatem aliquid atque iusto sunt harum possimus maxime doloribus, quidem nemo assumenda veritatis. Saepe maiores at exercitationem asperiores repellendus libero, ab non earum numquam perspiciatis officia minus laboriosam fugit consequuntur sequi soluta officiis tenetur neque! Sunt rerum veritatis, consequatur repudiandae eius debitis eveniet nemo vitae quae possimus atque perspiciatis dolores, unde accusantium. Tempore facilis aliquid sint aspernatur accusamus consequatur? Tempora eveniet temporibus porro corrupti alias quisquam tempore quod asperiores qui molestias? Amet adipisci rem sint veritatis distinctio et impedit voluptatum iusto aut laborum incidunt, molestias officia praesentium aspernatur dolor eligendi illo. Nesciunt, laudantium quod minus illo molestiae ipsum rem commodi nulla dolore dolores libero explicabo quaerat deserunt sapiente dignissimos atque omnis, numquam maiores et ratione hic animi eos? Pariatur, quia, iste vitae deserunt harum minima, quae voluptates sapiente rem minus neque facere porro? Eligendi sint blanditiis alias excepturi, esse fuga. Nihil quibusdam inventore, nulla atque voluptate voluptas blanditiis iste? Facilis assumenda sapiente sint reiciendis quaerat nulla maiores nihil, repellendus fuga minus ipsam ducimus unde provident numquam eveniet amet aperiam rerum illum porro quos dolor sunt veniam! Et illum impedit, sequi quae facere eos ut asperiores provident perferendis unde quibusdam ipsam eveniet reprehenderit, minus, dolores aliquid iste earum eum magni quis tempore! Tenetur, fugit nulla? Doloremque ex, dolores repudiandae praesentium, temporibus delectus molestiae architecto sed, sapiente similique velit eligendi voluptatum. Voluptatibus, quam dolore? Eveniet sed quia dignissimos sint qui aliquam temporibus necessitatibus laborum libero dolorem quasi dicta quod, alias totam magni ipsa mollitia eligendi autem quae et repudiandae ea, praesentium reprehenderit! Aliquid id laboriosam illo tenetur ea dolores eius, fuga distinctio nesciunt nulla voluptate ipsum consectetur mollitia atque magni aut et vero, soluta, eligendi laborum harum veniam exercitationem fugiat quibusdam. Illum dolore ducimus culpa id! Nesciunt maxime laborum fugiat tempore facilis tempora ad dolor harum soluta molestiae, tenetur ipsa fugit vero veritatis ut cum error. Aspernatur quaerat quo, explicabo a ratione ipsum maiores quibusdam fugiat corporis temporibus aperiam tempore labore exercitationem illo totam illum necessitatibus dolore perferendis earum, quis reprehenderit nemo ab. Corrupti amet similique iste unde repudiandae perferendis deleniti non cum, sequi quia sapiente molestiae laborum repellat omnis alias et labore est hic earum ratione, eum, sunt maiores! Est deleniti ab commodi corporis dolorem sed unde animi culpa corrupti quis, labore quas asperiores natus! Hic corrupti in dolores? Ab repudiandae alias accusamus dolorum libero, veritatis ut reprehenderit facilis dicta error officia omnis ad hic voluptatum sequi nihil reiciendis nostrum. Aperiam fugiat ad tenetur quo quae magnam numquam! Dolores nam cupiditate ipsam, incidunt officiis, ratione dolorum omnis natus qui aperiam sit pariatur commodi voluptates nisi! Mollitia esse vitae soluta laborum ipsa quia sunt, corporis aperiam ea quaerat. Ipsum nisi illum at similique dolorem nostrum et natus. Iusto ut ad voluptates error illum ex distinctio debitis aperiam, labore molestias sed iure obcaecati beatae tenetur deleniti vitae quae magnam quia dolore, consequuntur numquam consequatur blanditiis? Commodi dolorem itaque at nobis illo veritatis suscipit, accusantium quasi!
-        </div>
-    );
-};
+import { CiCamera } from "react-icons/ci";
+import { useRef } from "react";
 
-export default CropDiseaseDetection;
+export default function CropDiseaseDetection({ onCapture, onCheckDisease }) {
+  const cameraInputRef = useRef(null);
+
+  const handleCameraClick = () => {
+    cameraInputRef.current?.click();
+  };
+
+  const handleImageCapture = (e) => {
+    const file = e.target.files?.[0];
+
+    if (file) {
+      // Send the captured image to parent component
+      onCapture?.(file);
+    }
+  };
+
+  return (
+    <div className="flex w-full max-w-sm flex-col items-center gap-4 p-6">
+      {/* Hidden camera input */}
+      <input
+        ref={cameraInputRef}
+        type="file"
+        accept="image/*"
+        capture="environment"
+        onChange={handleImageCapture}
+        className="hidden"
+      />
+
+      {/* Camera button */}
+      <button
+        type="button"
+        onClick={handleCameraClick}
+        className="flex h-56 w-full flex-col items-center justify-center gap-2 rounded-2xl border-2 border-dashed border-green-400 bg-white text-green-600 transition-colors hover:bg-green-50"
+      >
+        <CiCamera className="text-5xl" />
+
+        <span className="text-xl font-medium leading-tight">
+          Take a photo
+        </span>
+      </button>
+
+      {/* Helper label */}
+      <p className="text-sm font-medium text-green-600">
+        Open your camera
+      </p>
+
+      {/* Action button */}
+      <button
+        type="button"
+        onClick={onCheckDisease}
+        className="w-full rounded-xl border border-green-300 bg-green-200 px-4 py-3 text-base font-semibold text-green-800 shadow-sm transition-colors hover:bg-green-300 active:bg-green-300"
+      >
+        Check Disease
+      </button>
+    </div>
+  );
+}
